@@ -1,0 +1,20 @@
+Pixel Cyberpunk Interior — aviso de licença do asset
+====================================================
+
+Este tileset NÃO pertence ao projeto MyGather e NÃO é coberto pela licença do
+código deste repositório.
+
+  Autor:   DyLESTorm (livingtheindie)
+  Página:  https://livingtheindie.itch.io/pixel-cyberpunk-interior
+  Site:    https://www.livingtheindie.com
+
+Ele está incluído aqui apenas para que o MyGather funcione (é a arte do mapa
+do jogo). Termos do autor:
+
+  - Uso comercial e não-comercial permitido, dentro de um projeto.
+  - Crédito apreciado, mas não obrigatório (ver CREDITS.txt na raiz).
+  - NÃO pode ser revendido nem redistribuído separadamente do projeto,
+    nem como parte de outro pacote de assets.
+
+Se você quer usar este tileset no seu próprio projeto, baixe-o diretamente
+da página do autor acima — não copie os arquivos desta pasta.

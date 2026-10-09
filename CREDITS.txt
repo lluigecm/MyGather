@@ -1,0 +1,38 @@
+MyGather — Créditos de Arte (Etapa 8)
+=====================================
+
+--- PERSONAGENS (atribuição OBRIGATÓRIA — CC-BY-SA 3.0) ---
+
+Os spritesheets de personagem em client/src/assets/characters/ foram gerados com
+o Universal LPC Spritesheet Character Generator (projeto "Liberated Pixel Cup").
+
+  Gerador: https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/
+  Projeto LPC: https://lpc.opengameart.org/
+
+Licença: Creative Commons Attribution-ShareAlike 3.0 (CC-BY-SA 3.0)
+  https://creativecommons.org/licenses/by-sa/3.0/
+
+A arte do LPC é resultado do trabalho de muitos artistas da comunidade
+(Liberated Pixel Cup e OpenGameArt). A licença CC-BY-SA 3.0 exige atribuição e
+compartilhamento sob a mesma licença. As combinações usadas aqui foram montadas
+no gerador acima; a lista detalhada de autores por camada (corpo, roupas,
+cabelo, etc.) é a exportada pelo próprio gerador junto de cada personagem.
+Autores frequentes do LPC incluem, entre outros: Stephen Challener (Redshrike),
+Johannes Sjölund (wulax), bluecarrot16, JaidynReiman, Benjamin K. Smith
+(BenCreating), Evert, Eliza Wyatt (ElizaWy), David Conway Jr. (JaidynReiman),
+Nila122, Matthew Krohn, e a comunidade do OpenGameArt/LPC.
+
+Se você regenerar/trocar os personagens, substitua também a lista de autores
+por camada exportada pelo gerador para manter a atribuição correta.
+
+--- TILES DO MAPA (atribuição não obrigatória — incluída por educação) ---
+
+Tileset "Pixel Cyberpunk Interior" em
+client/src/assets/tiles/pixel_cyberpunk_interior_free_1.0.1/
+
+  Autor: DyLESTorm (livingtheindie)
+  Página: https://livingtheindie.itch.io/pixel-cyberpunk-interior
+  Site:   https://www.livingtheindie.com
+
+Uso comercial e não-comercial permitido; crédito apreciado mas não obrigatório.
+NÃO pode ser revendido ou redistribuído separadamente do projeto.

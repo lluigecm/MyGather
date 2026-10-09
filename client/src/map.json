@@ -1,0 +1,30 @@
+{
+  "tileSize": 32,
+  "width": 37,
+  "height": 18,
+  "spawn": {"x":17,"y":11},
+  "rooms": [],
+  "tileStyles": {"floor":{"color":"#3a4150"},"wall":{"color":"#12141c"},"object":{"color":"#12141c"}},
+  "decor": [],
+  "decals": [],
+  "tiles": [
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","wall","wall","floor","floor","wall","wall","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","floor","floor","floor","floor","floor","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","floor","floor","floor","floor","floor","floor","wall","floor","floor","wall","floor","floor","floor","floor","floor","floor","wall","wall","floor","floor","floor","floor","floor","floor","wall","wall","wall"],
+    ["wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","floor","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+    ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"]
+  ]
+}

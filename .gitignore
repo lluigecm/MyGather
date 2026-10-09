@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Segredos e certificados locais (nunca versionar)
+.env
+.env.local
+infra/certs/
+
+Thumbs.db
+desktop.ini

@@ -1,0 +1,12 @@
+{
+  "name": "gather-clone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Clone simplificado do Gather Town — monorepo (client + server)",
+  "scripts": {
+    "test": "npm --prefix server test && npm --prefix client test",
+    "test:server": "npm --prefix server test",
+    "test:client": "npm --prefix client test",
+    "typecheck": "npm --prefix server run typecheck && npm --prefix client run typecheck"
+  }
+}
